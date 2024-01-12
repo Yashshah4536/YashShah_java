@@ -8,11 +8,11 @@
 
 ### After loggin in, showing details  
 
-## Add customer  
+##  Add customer  
 
-## Delete customer 
+##  Delete customer 
 
-## Update customer 
+##  Update customer 
 
 ### Extra feature - If someone tries to jump on any of the pages without loggin in the webfilter would redirect the user to login page 
 
